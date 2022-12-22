@@ -17,6 +17,6 @@ Welcome to the Inventory Management App! This application allows you to scan bar
 `pip install pyzbar opencv-python flask`. 
 ## Run the application:   
 Run `python app.py`.\
-Open a web browser and go to `http://localhost:3000` to access the application.
+Click on the http link in the terminal.
 ## Usage
 To scan a barcode, click the "Scan Item" button and hold the barcode in front of your webcam. The app will use the API to extract information about the item and display it on the screen. You can view a list of all scanned items in the home page.
